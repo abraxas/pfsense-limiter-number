@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/pfsense-limiter-number">pfsense-limiter-number</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/pfsense-limiter-number"><strong>https://abraxaslabs.tech/research/pfsense-limiter-number</strong></a>
+</p>
+
 
 # pfsense-limiter-number
 
